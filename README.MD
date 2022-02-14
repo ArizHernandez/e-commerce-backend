@@ -1,0 +1,1 @@
+To run the project, execute ``npm install`` , and create an ``.env`` you can use the ``.env-example`` to reference 
